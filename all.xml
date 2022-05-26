@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 01:39:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 03:24:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 58. Sam Smith - 'Love Me More' (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/XC2Q461IMQ9UMNDCY9OH?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/XC2Q461IMQ9UMNDCY9OH?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 26 May 2022 03:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뭘 들을까? - 2022년 5월 노래 모음! (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/46CY5N6O04FXWV9TCVKR?&amp;wl_ref=list_sp_01_h</link>
@@ -185,14 +192,6 @@
             <pubDate>Tue, 15 Mar 2022 03:18:11 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/E0V5ATYYZAFEAUCG02UZ/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니+ 단독 공개, NEW 웰메이드 - <메이의 새빨간 비밀> OST 공개! (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/XSFHRQ80QWMF0OO09PBJ?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/XSFHRQ80QWMF0OO09PBJ?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Tue, 15 Mar 2022 05:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/XSFHRQ80QWMF0OO09PBJ/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

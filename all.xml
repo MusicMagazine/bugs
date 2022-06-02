@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 01:38:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 03:47:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ego apartment - 첫 정규 앨범 [EGO APARTMENT] 발매 기념 인터뷰 (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/RNFB02KSIAI8IEDGXFTA?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/RNFB02KSIAI8IEDGXFTA?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 02 Jun 2022 03:47:21 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/RNFB02KSIAI8IEDGXFTA/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벅스 나눔 캠페인 - 벅스 X 카라(동물권행동) (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/HQGZOVQBLLZGMQ016W7H?&amp;wl_ref=list_sp_01_h</link>
@@ -185,13 +193,6 @@
             <pubDate>Wed, 16 Mar 2022 03:20:00 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/UV3ETXAYYPL36342WFZT/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뭘 들을까? - 2022년 3월 노래 모음! (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/DQBC1FHF2NTMILQH2XGD?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/DQBC1FHF2NTMILQH2XGD?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 16 Mar 2022 05:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
 </rss>

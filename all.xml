@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Mar 2024 23:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 00:59:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,7 +23,7 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[IT'S NEW! 2월issue (벅스 ─ 뮤직포스트)]]></title>
+            <title><![CDATA[IT'S NEW! 2월 issue (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/4DQBOGNY4O2N9ZBY31KQ?&amp;wl_ref=list_sp_01_h</link>
             <guid>https://music.bugs.co.kr/musicpost/4DQBOGNY4O2N9ZBY31KQ?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Tue, 27 Feb 2024 00:58:05 GMT</pubDate>

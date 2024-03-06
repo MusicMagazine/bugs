@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 02:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 03:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Favorite - 투표 Benefit, 여기에서 확인하세요! (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/9L7Y0R2MMRU0KZZMD9GQ?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/9L7Y0R2MMRU0KZZMD9GQ?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 06 Mar 2024 03:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/9L7Y0R2MMRU0KZZMD9GQ/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다니엘 지칼 (Daniel Jikal) - [Fresh] Official Photo 촬영 비하인드 (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/NR43U5PHOMC1DWBQQJVG?&amp;wl_ref=list_sp_01_h</link>
@@ -53,14 +61,6 @@
             <pubDate>Mon, 26 Feb 2024 09:14:48 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/2Q7SIY9ZRFA5RD53MLZI/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Favorite - 투표 Benefit은 어디에서 확인하나요? (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/X1QBT9ZF5N8BNW4PL63M?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/X1QBT9ZF5N8BNW4PL63M?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 17 Jan 2024 03:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/X1QBT9ZF5N8BNW4PL63M/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AIMERS (에이머스) - 달려가는 청춘들의 모습을 그린 [Somebody] 티징 이미지 스토리 (벅스 ─ 뮤직포스트)]]></title>

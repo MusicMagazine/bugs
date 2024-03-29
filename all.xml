@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Mar 2024 00:59:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 01:52:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 80. Victor Ray - 'Comfortable' (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/FCMB0BT06FW6EIQXI6HH?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/FCMB0BT06FW6EIQXI6HH?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 29 Mar 2024 01:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[IT'S NEW! 3월 issue (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/MVDT1TTMET60R3S3GIRH?&amp;wl_ref=list_sp_01_h</link>
@@ -185,14 +192,6 @@
             <pubDate>Tue, 16 Jan 2024 21:12:47 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/QF1NF9ZR0VA8A0H3T2AA/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이지카이트 (Izykite) - 사랑하는 사람을 향한 편지, '눈맞춤' 촬영 비하인드 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/63EV3JEYNNFR1MCAFOJC?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/63EV3JEYNNFR1MCAFOJC?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Tue, 16 Jan 2024 21:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/63EV3JEYNNFR1MCAFOJC/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

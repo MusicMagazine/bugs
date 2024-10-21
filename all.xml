@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Oct 2024 08:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Oct 2024 09:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유다빈밴드 - EP [IGNITE] 레코딩 비하인드 공개 (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/CPERAISZPN9PK8IEFTBM?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/CPERAISZPN9PK8IEFTBM?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 21 Oct 2024 09:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/CPERAISZPN9PK8IEFTBM/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Favorite - COMING SOON! (10/23) (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
@@ -31,12 +39,11 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[비비탄(BEE BEE TAN) - 첫 EP 앨범[Blue Moon Express] 발매 기념 인터뷰 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/5JN4OLO4XIQTDUDJ311A?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/5JN4OLO4XIQTDUDJ311A?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 04 Oct 2024 03:22:38 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/5JN4OLO4XIQTDUDJ311A/title_mobile_306.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[팝송으로 배우는 영어! 87. Maya Delilah - 'Look At The State Of Me Now' (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/XF0G328WM5041MG45INK?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/XF0G328WM5041MG45INK?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 10 Oct 2024 02:49:23 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[모브닝(MOVNING) - 데뷔 9년 만의 첫 정규 앨범 [ADAM] 비하인드 (벅스 ─ 뮤직포스트)]]></title>
@@ -187,13 +194,6 @@
             <pubDate>Mon, 29 Jul 2024 01:10:53 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/53466I4Z6E1IQX90OJLL/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팝송으로 배우는 영어! 84. Post Malone - 'I Had Some Help (feat. Morgan Wallen)' (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/1MSUUM2YU84416SEOYEE?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/1MSUUM2YU84416SEOYEE?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 26 Jul 2024 01:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
 </rss>
